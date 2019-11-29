@@ -6,3 +6,7 @@ Convolutional Neural Network model which classifies transit signal data in order
 2. The neural network was trained and designed in the "Model" jupyter notebook. This involved designing the neural network architecture, creating a balanced batch generator and running multiple training sessions. I also learned about measures to combat imbalanced response variables and high dimensionality within a dataset.
 
 3. It was vital to measure success using a confusion matrix due to the imbalanced nature of the dataset.
+
+# Exoplanet Transit Signal Visualisation
+
+![Image of framework](https://github.com/jackapbutler/Exoplanet-Identification-System/blob/master/exo.png)
